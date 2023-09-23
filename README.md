@@ -1,27 +1,40 @@
-# React + TypeScript + Vite
+# HooBank
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a landing page for a new generation of payment methods invented by HooBank.
 
-Currently, two official plugins are available:
+📃 The purpose of this project was:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Learn the process of creating landing pages. ✅
+- Acquire better knowledge of how modern layouts are made. ✅
+- Learn Tailwind CSS. ✅
+- Improve my React.js skills. ✅
 
-## Expanding the ESLint configuration
+## Getting Started
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-- Configure the top-level `parserOptions` property like this:
+### Installing
 
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
+1. Clone this repository ([how to clone a repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository))
+
+```
+git clone https://github.com/predofrazao/hoobank.git
 ```
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+2. Install the dependencies
+
+```
+npm install
+```
+
+3. Run
+
+```
+npm run preview
+```
+
+## Credits
+
+I created this project from a personal study in search to improve my skills as front end developer.
+
+The original project was created by @adrianhajdin and the tutorial for this project can be found on YouTube at: https://youtu.be/_oO4Qi5aVZs?si=D2E9AZ6JFh-EIuWI.
