@@ -37,4 +37,4 @@ npm run preview
 
 I created this project from a personal study in search to improve my skills as front end developer.
 
-The original project was created by @adrianhajdin and the tutorial for this project can be found on YouTube at: https://youtu.be/_oO4Qi5aVZs?si=D2E9AZ6JFh-EIuWI.
+The original project was created by [@adrianhajdin](https://github.com/adrianhajdin) and the tutorial for this project can be found on YouTube at: https://youtu.be/_oO4Qi5aVZs?si=D2E9AZ6JFh-EIuWI.
